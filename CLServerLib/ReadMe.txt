@@ -11,9 +11,8 @@
 					  Memory Pool System for preventing access violention error,
 					  and Multi threading technolgy are included in this server.
 	[2] Date		: April 03, 2002
-	[3] Developler	: Joseph Kim (Kim Jong Yoon)
-	[4] Contact		: plenum@korea.com, jyoon95@hanmail.net
-	[5] Notice		: NO COMMECIAL USAGE WITHOUT PERMITTING Joseph Kim and I Storm Inc.
+	[3] Developler	: Jay Kim (Kim Jong Yoon)
+	
 ==================================================================================
 
 - CLGloabl.h - 
